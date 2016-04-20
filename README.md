@@ -1,6 +1,8 @@
 Frank in Shirt
 ==============
 
+[![Join the chat at https://gitter.im/FreezingMoon/Frank-in-Shirt](https://badges.gitter.im/FreezingMoon/Frank-in-Shirt.svg)](https://gitter.im/FreezingMoon/Frank-in-Shirt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Adventure Game
 --------------
 
